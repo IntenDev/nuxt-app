@@ -9,5 +9,5 @@ const { user_id } = useRoute().params
 </template>
 
 <style scoped>
-h1 { color: red }
+
 </style>
