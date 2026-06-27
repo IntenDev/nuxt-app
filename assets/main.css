@@ -1,0 +1,8 @@
+h1 {color: red}
+header a:not(.router-link-exact-active):hover {
+    text-decoration: underline;
+}
+header a.router-link-exact-active {
+    color: #ffb636 !important;
+    font-weight: 500;
+}

@@ -18,12 +18,5 @@
 </template>
 
 <style>
-header a:not(.router-link-exact-active):hover {
-  text-decoration: underline;
-}
-header a.route-link-exact-active {
-  color: #ffb636 !important;
-  font-weight: 500;
-}
-h1 {color: red}
+
 </style>
